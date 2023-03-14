@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BlankAR.unity
     guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 6874865dbbe70584ca56d962f99d4ef5
+  - enabled: 1
+    path: Assets/Scenes/carsel.unity
+    guid: bdccc1d8c17df6a4c9a2278aca5f6b3d
+  - enabled: 1
+    path: Assets/Scenes/gamefin.unity
+    guid: 50f1033df9aad2c47bb0405af03d553b
+  - enabled: 1
+    path: Assets/Scenes/tracksel.unity
+    guid: 76a39d7b461132b448e878b6767a4708
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
