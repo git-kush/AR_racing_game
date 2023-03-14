@@ -16,8 +16,8 @@ public class btnstart : MonoBehaviour
     {
         
     }
-    public void ChangeScene()
+    public void ChangeScene(string scenename)
     {
-        SceneManager.LoadScene("carsel");
+        SceneManager.LoadScene(scenename);
     }
 }
