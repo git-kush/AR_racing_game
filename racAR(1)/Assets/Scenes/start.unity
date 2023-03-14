@@ -209,7 +209,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1824426687}
         m_TargetAssemblyTypeName: btnstart, Assembly-CSharp
-        m_MethodName: ChangeScene
+        m_MethodName: LoadNextScenefrbuild
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
