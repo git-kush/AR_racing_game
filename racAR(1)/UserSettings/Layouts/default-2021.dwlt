@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 91
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 92
+  controlID: 33
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 93
+  controlID: 24
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -319,22 +319,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/GameObjects
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/GameObjects
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\repo\AR_racing_game\racAR(1)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e620000
-    m_LastClickedID: 25198
-    m_ExpandedIDs: 000000005462000000ca9a3bffffff7f
+    m_SelectedIDs: 82620000
+    m_LastClickedID: 25218
+    m_ExpandedIDs: 000000007062000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -362,7 +362,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000054620000
+    m_ExpandedIDs: 0000000070620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -494,9 +494,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 02660000
-      m_LastClickedID: 26114
-      m_ExpandedIDs: 66f5ffffdaf5ffffc2f7ffff04f8ffffcef9fffffef9ffff2efbffffaa6400003e6500001c660000
+      m_SelectedIDs: 967c0000
+      m_LastClickedID: 31894
+      m_ExpandedIDs: 4cdbfffff0dbffffd8ddffff2cdeffff02e0fffface3ffff0ae4ffffc4e4ffff00e6ffff54e8ffff22ebffff6cebffff62efffff94f0ffffe4f4ffff36f5ffff54f6ffff46f7ffff96f7ffff4ef8ffffcef8ffff9af9ffffd8f9ffff2efbffff786300007a640000c2660000b26700006e720000ac74000090760000907700009a7700009078000050790000967c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -512,7 +512,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 4}
+        m_ClientGUIView: {fileID: 3}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -642,9 +642,9 @@ MonoBehaviour:
       floating: 1
       collapsed: 0
       displayed: 0
-      snapOffset: {x: -203.79999, y: -105.600006}
+      snapOffset: {x: 49.999996, y: 47}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 3
+      snapCorner: 0
       id: Scene View/Camera
       index: 1
       layout: 4
@@ -780,9 +780,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 523.2354, y: 234.05417, z: 1314.7018}
+    m_Target: {x: -744.14355, y: 160.38513, z: 685.6136}
     speed: 2
-    m_Value: {x: 523.2354, y: 234.05417, z: 1314.7018}
+    m_Value: {x: -744.14355, y: 160.38513, z: 685.6136}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -829,13 +829,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.011689995, y: -0.008401568, z: -0.000093369534, w: -0.9999105}
+    m_Target: {x: -0.036860347, y: 0.53962505, z: -0.023652053, w: -0.8407825}
     speed: 2
-    m_Value: {x: 0.011689831, y: -0.00840145, z: -0.00009336822, w: -0.9998964}
+    m_Value: {x: -0.036895256, y: 0.5383556, z: -0.023596399, w: -0.84157896}
   m_Size:
-    m_Target: 940.437
+    m_Target: 1160.6754
     speed: 2
-    m_Value: 940.437
+    m_Value: 1110.6942
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -893,7 +893,7 @@ MonoBehaviour:
   m_SerializedViewNames: []
   m_SerializedViewValues: []
   m_PlayModeViewName: GameView
-  m_ShowGizmos: 0
+  m_ShowGizmos: 1
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
   m_TargetSize: {x: 874.80005, y: 386}
@@ -903,7 +903,7 @@ MonoBehaviour:
   m_EnterPlayModeBehavior: 0
   m_UseMipMap: 0
   m_VSyncEnabled: 0
-  m_Gizmos: 0
+  m_Gizmos: 1
   m_Stats: 0
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
