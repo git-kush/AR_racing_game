@@ -28,12 +28,12 @@ public class CarController : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    { transform.position = sphereRB.transform.position;
          moveInput = Input.GetAxisRaw("Vertical");
          turnInput = Input.GetAxisRaw("Horizontal");
          moveInput *= moveInput>0 ? fwdSpeed : revSpeed;
 
-         transform.position = sphereRB.transform.position;
+        
          float newRotation = turnInput * turnSpeed * Time.deltaTime * Input.GetAxisRaw("Vertical");
          transform.Rotate(0,newRotation,0);
 

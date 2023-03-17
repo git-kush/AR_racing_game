@@ -4,39 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/ExampleAssets/Scenes/start_new.unity
-    guid: 45d4a3431831e0b429c171d57b71ca9c
-  - enabled: 1
-    path: Assets/ExampleAssets/Scenes/trackSel_new.unity
-    guid: f1f3a810f4ceb3f4ab924b4ea45f20d4
-  - enabled: 1
-    path: Assets/ExampleAssets/Scenes/BlankAR.unity
-    guid: 6bdce89659816455b9f906fc62d19910
-  - enabled: 1
-    path: Assets/ExampleAssets/Scenes/gameFin_new.unity
-    guid: e95fde229af8953428adfff95235eed0
-  - enabled: 0
-    path: Assets/ExampleAssets/Scenes/carSel_new.unity
-    guid: 79779da60b33e204f994fbb9d74d2b7f
+  m_Scenes: []
   m_configObjects:
-    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
-      type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
-      type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
-      type: 2}
-    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
-      type: 2}
-    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
-      type: 2}
-    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 28707af181648be4eb1243e20fba2fec,
       type: 2}
