@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start_new.unity
+    guid: 45d4a3431831e0b429c171d57b71ca9c
+  - enabled: 1
+    path: Assets/Scenes/trackSel_new.unity
+    guid: f1f3a810f4ceb3f4ab924b4ea45f20d4
+  - enabled: 1
+    path: Assets/Scenes/BlankAR 1.unity
+    guid: 9b364bef46b637b498cc1f854e7c4c4b
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 28707af181648be4eb1243e20fba2fec,
       type: 2}
