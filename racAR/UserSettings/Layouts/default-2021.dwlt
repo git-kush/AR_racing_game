@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 21
+  controlID: 60
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 22
+  controlID: 61
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 23
+  controlID: 62
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 441.59998
     height: 722.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -567,9 +567,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 19.162697, y: 23.573545, z: 86.02137}
+    m_Target: {x: 10.602319, y: 28.448198, z: 80}
     speed: 2
-    m_Value: {x: 19.162697, y: 23.573545, z: 86.02137}
+    m_Value: {x: 10.602319, y: 28.448198, z: 80}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -616,13 +616,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.462
   m_Rotation:
-    m_Target: {x: -0.27044994, y: -0.11890584, z: 0.033630975, w: -0.9548572}
+    m_Target: {x: -0.27829707, y: 0.308924, z: -0.095167294, w: -0.9045835}
     speed: 2
-    m_Value: {x: -0.2703769, y: -0.12032807, z: 0.0340338, w: -0.954599}
+    m_Value: {x: -0.27710575, y: 0.31972268, z: -0.09848951, w: -0.9007161}
   m_Size:
-    m_Target: 7.4037237
+    m_Target: 8.208639
     speed: 2
-    m_Value: 7.0849032
+    m_Value: 8.595433
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -682,7 +682,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d6aeffff24afffffbaafffffc0afffffcaafffff28c5ffff74c5ffff0ac6ffff10c6ffff1ac6ffffe0d0ffff2cd1ffffc2d1ffffc8d1ffffd2d1ffff9ad2ffffead2ffff80d3ffff86d3ffff90d3ffffcce9ffff18eafffff2ecfffff8ecffff08edffff1afbfffff6660000a66d0000506e0000207700002c770000907c00009c7c000064830000
+      m_ExpandedIDs: 6ab3ffffb8b3ffffa0b4ffffa6b4ffffb0b4ffffe4b9ffff32baffff5ebdffff64bdffff70bdffff08cdffff84dcffff9edeffffecdeffffc6e1ffffcce1ffffdce1ffff1afbfffff86600000a6e0000506e00005c6e0000846e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -843,22 +843,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/flag
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 69
   m_LastFolders:
-  - Assets
+  - Assets/flag
   m_LastFoldersGridSize: 69
-  m_LastProjectPath: D:\repo\AR_racing_game\racAR(1)
+  m_LastProjectPath: D:\repo\AR_racing_game\racAR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 72680000
-    m_LastClickedID: 26738
-    m_ExpandedIDs: 00000000726800007468000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 120}
+    m_SelectedIDs: 527b0000
+    m_LastClickedID: 31570
+    m_ExpandedIDs: 00000000746800007668000098680000527b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -886,7 +886,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007268000074680000
+    m_ExpandedIDs: 000000007468000076680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
